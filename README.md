@@ -1,5 +1,7 @@
 ## SQL DATA ENGINEERING AND ANALYSIS
 
+![sql.png](sql.png)
+
 ### Purpose
 Research project on Pewlett Hackard employees corporation from the 1980s and 1990s. The purpose of this project is 
 data engineering and analysis of employees database, using CSVs and SQL tools.
@@ -21,11 +23,3 @@ data engineering and analysis of employees database, using CSVs and SQL tools.
 ### Description
 1. Data Engineering - inspect CSVs and sketch out an ERD of the tables: data types, primary keys, foreign keys, etc. 
 2. Data Analysis - List of employees details, departments,  and histogram of salaries.
-
-
-
-
-design tables to hold data in CSVs, import the CSVs into a SQL database, and answer questions about the data
-
-
-
